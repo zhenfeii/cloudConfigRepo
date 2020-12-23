@@ -122,6 +122,6 @@ swagger.butler:
 # 忽略某些路由生成
 #  ignore-routes:
 info:
-  name: spring-config dev
+  name: spring-config sit
   著作登记号: 2018SR320076
   关于我们: http://paascloud.net
